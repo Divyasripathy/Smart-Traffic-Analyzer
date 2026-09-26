@@ -1,0 +1,6 @@
+ultralytics==8.4.163
+opencv-python==5.0.0.93
+easyocr==1.7.2
+pandas==2.3.3
+matplotlib==3.10.6
+jupyter==1.1.1
